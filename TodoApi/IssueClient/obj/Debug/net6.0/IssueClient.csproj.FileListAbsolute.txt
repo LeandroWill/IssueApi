@@ -1,0 +1,15 @@
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\bin\Debug\net6.0\IssueClient.exe
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\bin\Debug\net6.0\IssueClient.deps.json
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\bin\Debug\net6.0\IssueClient.runtimeconfig.json
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\bin\Debug\net6.0\IssueClient.dll
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\bin\Debug\net6.0\IssueClient.pdb
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.csproj.AssemblyReference.cache
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.AssemblyInfoInputs.cache
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.AssemblyInfo.cs
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.csproj.CoreCompileInputs.cache
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.dll
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\refint\IssueClient.dll
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.pdb
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\IssueClient.genruntimeconfig.cache
+C:\Users\leandro.godoi\source\repos\TodoApi\IssueClient\obj\Debug\net6.0\ref\IssueClient.dll
